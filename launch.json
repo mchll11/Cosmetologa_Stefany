@@ -1,0 +1,26 @@
+<section class="main-section">
+  <section id="philosophy">
+    <style>
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #f5f5f5;
+      }
+      h1 {
+        font-family: 'Roboto', sans-serif;
+      }
+      .main-section img {
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+      #philosophy {
+        background-color: #e6f4ff;
+      }
+      #philosophy img {
+        border: 1px solid #ccc;
+      }
+    </style>
+  </section>
+</section>

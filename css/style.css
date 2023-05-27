@@ -1,0 +1,547 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: white
+}
+
+.indice{
+width: 20%;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+display: flex;
+padding: 0 3%;
+}
+
+.titulo{
+width: 100; 
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.botones{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+img.imagen1{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+button.conocenos{
+    border-radius: 50px 50px 50px 50px;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(251, 255, 0);
+    color: rgb(245, 11, 11);
+    border: none;
+    margin: 3% 0%;
+    
+}
+button.consultenos{
+    border-radius: 50px 50px 50px 50px;
+    background-color: rgb(251, 255, 0);
+    color: rgb(245, 11, 11);
+    border: none;
+    width: 10%;
+    height: 30px;
+    margin: 3% 0%;
+}
+h1.titulo01{
+font-size: 3rem;
+margin-top: 5%;
+font-family: 'Century Gothic'
+}
+h2.slogan{
+font-size: 1.5rem;
+margin: 3.5% 0%;
+font-family: Georgia, serif;
+}
+#concepto h2{
+width: 100%; 
+display: flex;
+flex-direction: column;
+align-items: center; 
+font-size: 1.5rem;
+color: rgb(255, 0, 0);
+margin: 5% 0%;
+}
+
+#concepto p{
+  font-size: 1.1rem;  
+  width: 100%;
+  text-align: center;
+}
+section#concepto{
+width: 70%; 
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0% 14.5%;
+}
+#concepto button{
+border-radius: 50px 50px 50px 50px;
+    background-color: rgb(251, 255, 5);
+    color: rgb(245, 11, 11);
+    border: none;
+    width: 20%;
+    height: 30px;
+    margin: 3% 0%;
+}
+.icono1{
+width: 50%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 0% 32%;
+margin-top: 15%;
+
+}
+.icon1{
+    width: 10%;
+}
+.subtitulo{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Georgia, serif;
+}
+#concepto p{
+    padding: 3% 0%;
+    font-family: Arial, sans-serif;
+}
+.icono2{
+width: 50%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 0% 32%;
+margin-top: 5%;
+
+}
+.icon2{
+    width: 10%;
+}
+.subtitulo2{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Georgia, serif;}
+
+ .icono3{
+width: 50%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 0% 32%;
+margin-top: 5%;
+
+}
+.icon3{
+    width: 10%;
+}
+.subtitulo3{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Georgia, serif;}
+
+ .icono4{
+width: 50%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 0% 32%;
+margin-top: 5%;
+
+}
+.icon4{
+    width: 10%;
+}
+.subtitulo4{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Georgia, serif;}
+
+#tratamientos{
+    padding: 0% 5%;
+}
+#tratamientos h2{
+    font-size: 2.5rem;
+    margin-top: 15%;
+    width: 100; 
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-family: 'Century Gothic';
+}
+#tratamientos h3{
+    
+    margin: 3% 0%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 1.5rem;
+   font-family: Georgia, serif;
+}
+
+#tratamientos h4{
+    font-size: 1.3rem;
+    padding: 3%;
+    margin: 0% 3%;
+    font-family: Georgia, serif;
+}
+#tratamientos p{
+   font-size: 1.1rem; 
+   font-family: Arial, sans-serif;
+}
+.video1{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}
+.video2{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}.video3{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}.video4{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}.video5{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}.video6{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}.video7{
+    width: 50%;
+    padding: 3%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 0% 25%;
+}
+
+#aparatologia{
+    padding: 0% 5%;
+}
+#aparatologia h3{
+    
+    margin: 3% 0%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 1.5rem;
+   font-family: 'Century Gothic';
+}
+
+#aparatologia h4{
+    font-size: 1.3rem;
+    padding: 3%;
+    margin: 0% 3%;
+    font-family: Georgia, serif;
+}
+#aparatologia p{
+   font-size: 1.1rem;
+   font-family: Arial, sans-serif; 
+}
+#aparatologia img{
+    height: auto;
+    width: auto;
+    max-height: 500px;
+    max-width: 500px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 5% 27%;
+}
+#contacto{
+    padding: 0% 5%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+#contacto h4{
+    margin-top: 10%;
+    margin: 3% 0%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 1.2rem;
+   font-family: Georgia, serif;
+}
+#contacto p{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 1.1rem;
+   font-family: Georgia, serif;
+}
+#contacto button{
+   border-radius: 50px 50px 50px 50px;
+    background-color: rgb(251, 255, 5);
+    color: rgb(245, 11, 11);
+    border: none;
+    width: 25%;
+    height: 30px;
+    margin: 3% 0%; 
+    margin: 5% 37%;
+}
+.llamadas{
+width: 20%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 3% 45%;
+
+}
+.llamada{
+    width: 10%;
+}
+.numero1{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Arial, sans-serif
+}
+.correos{
+width: 20%;
+display: flex;
+flex-direction: row;
+display: flex;
+margin: 3% 40%;
+
+}
+.correo{
+    width: 10%;
+}
+.direccion{
+ margin: 0% 10%;
+ font-size: 1.4rem;
+ font-family: Arial, sans-serif;}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.redes img {
+  margin: 0 5px; /* ajusta el margen según sea necesario */
+    height: auto;
+    width: auto;
+    max-height: 50px;
+    max-width: 50px;
+}
+.final{
+    margin: 3% 0%;
+    font-family: Arial, sans-serif;
+}
+
+@media only screen and (min-width: 300px) {
+    .indice{
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        display: flex;
+        padding: 15 0%;
+        }
+    button.conocenos{
+        border-radius: 50px 50px 50px 50px;
+        width: 100px;
+        height: 25px;
+        background-color: rgb(251, 255, 0);
+        color: rgb(245, 11, 11);
+        border: none;
+        margin: 3% 0%;
+        
+    }
+    button.consultenos{
+        border-radius: 50px 50px 50px 50px;
+        background-color: rgb(251, 255, 0);
+        color: rgb(245, 11, 11);
+        border: none;
+        width: 100px;
+        height: 25px;
+        margin: 3% 0%;
+    }
+    #contacto button{
+        border-radius: 50px 50px 50px 50px;
+         background-color: rgb(251, 255, 5);
+         color: rgb(245, 11, 11);
+         border: none;
+         width: 150px;
+        height: 25px;
+         margin: 3% 0%; 
+         margin: 5% 37%;
+     }
+     h1.titulo01{
+        font-size: 3rem;
+        margin: 10% 50%;
+        font-family: 'Century Gothic'
+        }
+        h2.slogan{
+        font-size: 1.5rem;
+        margin: 5% 10%;
+        font-family: Georgia, serif;
+        }
+        #concepto button{
+            border-radius: 50px 50px 50px 50px;
+                background-color: rgb(251, 255, 5);
+                color: rgb(245, 11, 11);
+                border: none;
+                width: 150px;
+                height: 25px;
+                margin: 3% 0%;
+            }
+}
+
+@media only screen and (min-width: 480px) {
+    *{
+        margin: 5% 3%;
+        padding: 0;
+        font-size: 16px;
+        box-sizing: border-box;
+        background-color: white
+    }
+    #aparatologia img{
+        height: auto;
+        width: auto;
+        max-height: 200px;
+        max-width: 200px;
+        display: flex;
+       flex-direction: column;
+       align-items: center;
+       margin: 5% 10%;
+    }
+    #contacto{
+        padding: 10% 10%;
+        display: flex;
+       flex-direction: column;
+       align-items: center;
+    }
+    .correo{
+        width: 40%;
+    }
+    .llamada{
+        width: 30%;
+    }
+    .correos{
+        width: 20%;
+        display: flex;
+        flex-direction: row;
+        display: flex;
+        margin: 3% 10%;
+    }
+    .llamadas{
+        width: 20%;
+        display: flex;
+        flex-direction: row;
+        display: flex;
+        margin: 3% 30%;
+        
+        }
+}
+
+@media only screen and (min-width: 768px){
+    *{
+        margin: 0% 1%;
+        padding: 0;
+        font-size: 16px;
+        box-sizing: border-box;
+        background-color: white
+    }
+    .correo{
+        width: 30%;
+    }
+    .llamada{
+        width: 20%;
+    }
+    .correos{
+        width: 20%;
+        display: flex;
+        flex-direction: row;
+        display: flex;
+        margin: 4% 20%;
+    }
+    .llamadas{
+        width: 20%;
+        display: flex;
+        flex-direction: row;
+        display: flex;
+        margin: 4% 40%;
+        
+        }
+        #aparatologia img{
+            height: auto;
+            width: auto;
+            max-height: 300px;
+            max-width: 300px;
+            display: flex;
+           flex-direction: column;
+           align-items: center;
+           margin: 5% 30%;
+        }
+}
+
+@media only screen and (min-width: 1024px) {
+    h1.titulo01{
+        font-size: 3.5rem;
+        margin: 10% 50%;
+        font-family: 'Century Gothic'
+        }
+        #aparatologia img{
+            height: auto;
+            width: auto;
+            max-height: 400px;
+            max-width: 400px;
+            display: flex;
+           flex-direction: column;
+           align-items: center;
+           margin: 5% 30%;
+        }
+        .correo{
+            width: 20%;
+        }
+        .llamada{
+            width: 10.5%;
+        }
+        .correos{
+            width: 20%;
+            display: flex;
+            flex-direction: row;
+            display: flex;
+            margin: 4% 30%;
+        }
+}
+
+    
